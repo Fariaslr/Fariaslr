@@ -2,18 +2,25 @@
 
 <div align="center">
 
-## :books: Índice:
+## :books: Índice
+<div align="left">
+
 > Para nagevar nos algoritmos
+</div>
+
+
   
-   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#📕-linguagem-c)
-   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#📙-java) 
+   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#💻-linguagem-c)
+   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#☕-java) 
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ____
-## 🌍 Redes  
+## :speech_balloon: Redes  
 
->Minhas redes sociais
+<div align="left">
+
+>Minhas redes sociais</div>
 
 <a href="https://github.com/Fariaslr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -24,7 +31,8 @@
 # :book: Material de estudo
 <div align="left">
 
-##  💻 Linguagem C 
+   >Todo material de estudo em programação desenvolvido por mim. Fique a vontade para navegar pelo repositório!
+## :computer: Linguagem C 
 
 <details>
 <summary>LINGUAGEM C: COMPLETA E DESCOMPLICADA : ANDRÉ BACKES  </summary>
@@ -45,9 +53,12 @@
 </details>
 </div>
 
-## ☕ Java
+## :coffee: Java
 ### :hammer: em construção...
 ___
+
+# :mag_right: Projetos 
+### :hammer: em construção...
 <div align="center">
 
 ## 📊 GitHub Stats
