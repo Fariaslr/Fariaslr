@@ -5,7 +5,7 @@
 ## :books: Índice
 <div align="left">
 
-> Navegue nos algoritmos
+> Algoritmos por linguagem
 </div>
 
    [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#💻-linguagem-c)
