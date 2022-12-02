@@ -5,22 +5,20 @@
 ## :books: Índice
 <div align="left">
 
-> Para nagevar nos algoritmos
+> Navegue nos algoritmos
 </div>
 
-
-  
    [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#💻-linguagem-c)
-   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#☕-java) 
+   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)]() 
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ____
+
 ## :speech_balloon: Redes  
 
 <div align="left">
 
->Minhas redes sociais</div>
+</div>
 
 <a href="https://github.com/Fariaslr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -54,11 +52,13 @@
 </div>
 
 ## :coffee: Java
-### :hammer: em construção...
+### :construction: em construção...
 ___
 
 # :mag_right: Projetos 
-### :hammer: em construção...
+### :construction: em construção...
+___
+
 <div align="center">
 
 ## 📊 GitHub Stats
