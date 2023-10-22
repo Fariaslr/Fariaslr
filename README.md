@@ -1,5 +1,3 @@
-<h2>"Irmão, você não percebeu que você é o único representante do seu sonho na face da terra? Se isso não fizer você correr, chapa, eu não sei o que vai."</p>
-
 ###
 
 <div align="center">
