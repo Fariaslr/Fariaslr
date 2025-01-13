@@ -29,7 +29,9 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+
+<div align="left">
+  <h3>🛠 Language and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" alt="java logo" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" height="40" alt="android logo"  width="40"/>
@@ -37,13 +39,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="40" alt="mariadb logo" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo" width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="ubuntu logo" width="40"/>
-
-###
-
-<h3 align="left">🛠 Learning</h3>
+  <h3>🛠 Learning</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="react logo" width="40" />
+</div>
+  
+###
+
+
 
 #
 
