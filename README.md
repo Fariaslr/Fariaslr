@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m working as a t IT intern at Desenbahia r<br>- 📚 I'm currently learning Phyton<br>- ⚡ In my free time I at a play football</p>
+<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m working as IT intern in Desenbahia<br>- 📚 I'm currently learning Phyton<br>- ⚡ In my free time I love play football</p>
 
 ###
 
