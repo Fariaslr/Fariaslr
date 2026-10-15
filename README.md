@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m Robotic Teacher ⏳<br>- 📚 I'm currently learning Phyton<br>- ⚡ In my free time I love play football</p>
+<p align="left">I'm Lucas from Brazil<br><br>- 🔭 I’m PCP intern ⏳<br>- 📚 I'm currently learning Phyton and Power BI<br>- ⚡ In my free time I love play football and games</p>
 
 ###
 
